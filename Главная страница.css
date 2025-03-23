@@ -1,0 +1,55 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0%;
+    padding: 0%;
+    display: flex;
+    min-height: 100hv;
+    flex-direction: column;
+    background-color:rgb(24, 26, 21) ;
+}
+
+.header {
+    text-align: center;
+    font-size: 40px;
+    background-color: rgb(24, 26, 21);
+    width: 100%;
+    height: 20%;
+}
+
+.header a {
+    display: inline-block;
+    padding: 30px;
+}
+
+.main {
+   background-repeat: no-repeat;
+   background-size: cover;
+   width: 100%;
+   height: 900px;
+}
+.main img {
+    width: 100%;
+    height: 100%;
+}
+.footer {
+background-color: rgb(24, 26, 21);
+text-align: center;
+width: 100%;
+height: 20%;
+}
+
+p {
+    color: aliceblue;
+}
+
+a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    transition: color 0.5s ease;
+    cursor: pointer;
+}
+
+a:hover {
+    color: rgba(122, 189, 108, 0.729);
+    cursor: url('Pokemon\ Mysterious\ Gardevoir--cursor--SweezyCursors.cur'), auto;
+}

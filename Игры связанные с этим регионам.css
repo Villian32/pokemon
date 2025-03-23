@@ -1,0 +1,456 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0%;
+    padding: 0%;
+    display: flex;
+    flex-direction: column;
+    background-color:rgb(24, 26, 21) ;
+}
+
+.header {
+    text-align: center;
+    font-size: 40px;
+    background-color: rgb(24, 26, 21);
+    width: 100%;
+    height: 20%;
+}
+
+.header a {
+    display: inline-block;
+    padding: 30px;
+}
+.main{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.rubusapphire {
+    background-color: rgba(192, 191, 199, 0.445) ;
+    width: 80% ;
+    height:1800px ;
+}
+.werf {
+    width: 100%;
+    height: 25%;
+    display: flex;
+}
+.sapphire {
+    width: 25%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sapphire img {
+max-width: 95%;
+max-height: 95%;
+}
+.RS {
+width: 50%;
+height: 100%;
+display: flex;
+justify-content: center;
+text-align: center;
+align-items: center;
+}
+.RS1 {
+width: 90%;
+height: 90%;
+display: flex;
+justify-content: center;
+text-align: center;
+background-color: rgb(54, 54, 54, 0.445);
+}
+.RS1 p{
+font-size: clamp(16px,1vw,30px);
+}
+.ruby {
+width: 25%;
+height: 100%;
+display: flex;
+justify-content: center;
+align-items: center; 
+}
+.ruby img {
+max-width: 95%;
+max-height: 95%; 
+}
+.centr {
+width: 100%;
+height: 37.5%;
+display: flex;
+}
+.text1 {
+width: 25%; 
+height: 100%;
+display: flex;
+justify-content: center;
+text-align: center;
+align-items: center;
+}
+.text11 {
+background-color: rgb(54, 54, 54, 0.445);
+width: 90%; 
+height: 90%;
+display: flex;
+justify-content: center;
+text-align: center;
+box-sizing: border-box;
+}
+.text11 p{
+font-size: clamp(10px,1vw,22px);
+}
+.vid {
+width: 50%;
+height: 100%;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.vid img {
+width: 95%;
+height: 95%;
+}
+.text2 {
+width: 25%; 
+height: 100%;
+display: flex;
+justify-content: center;
+text-align: center;
+align-items: center;
+}
+.text22 {
+background-color: rgb(54, 54, 54, 0.445);
+width: 90%; 
+height: 90%;
+display: flex;
+justify-content: center;
+text-align: center;
+box-sizing: border-box;
+}
+.text22 p {
+font-size: clamp(10px,1vw,22px);
+}
+.niz {
+width: 100%;
+height: 37.5%;
+display: flex;
+}
+.kyogre{
+width: 30%;
+height: 100%;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.kyogre img {
+width: 95%;
+height: 95%;
+}
+.wmeste{
+width:40%;
+height: 100%;
+display: flex;
+}
+.wmeste1 {
+width:100%;
+height: 100%;
+display: flex;
+    }
+.a1 {
+width: 50%;
+height: 50%;
+justify-content: center;
+align-items: center;
+}
+.a1 img {
+width: 90%;
+height: 90%;
+transform: scaleX(-1);
+}
+.a2 {
+width: 50%;
+height: 50%;
+justify-content: center;
+align-items: center;
+}
+.a2 img {
+width: 90%;
+height: 90%;
+}
+.groudon{
+width: 30%;
+height: 100%;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.groudon img {
+width: 95%;
+height: 95%;  
+}
+.black1 {
+width: 80%;
+height: 200px;
+}
+.emerald {
+background-color: rgba(192, 191, 199, 0.445) ;
+width: 80% ;
+height:1800px    
+}
+.emer {
+width: 100%;
+height: 38%;
+display: flex;
+}
+.text3 {
+width: 35%; 
+height: 100%;
+display: flex;
+justify-content: center;
+text-align: center;
+align-items: center;
+}
+.text33 {
+background-color: rgb(54, 54, 54, 0.445);
+width: 90%; 
+height: 90%;
+display: flex;
+justify-content: center;
+text-align: center;
+box-sizing: border-box;
+}
+.text33 p {
+font-size: clamp(10px,1vw,22px);
+}
+.izi {
+width: 30%;
+height: 100%;
+display: flex;
+justify-content: center;
+align-items: center;    
+}
+.izi img {
+width: 95%;
+height: 95%; 
+}
+.text4 {
+width: 35%; 
+height: 100%;
+display: flex;
+justify-content: center;
+text-align: center;
+align-items: center;
+}
+.text44 {
+background-color: rgb(54, 54, 54, 0.445);
+width: 90%; 
+height: 90%;
+display: flex;
+justify-content: center;
+text-align: center;
+box-sizing: border-box;
+}
+.text44 p {
+font-size: clamp(10px,1vw,22px);
+}
+.emer1 {
+width: 100%;
+height: 62%;
+display: flex;   
+}
+.pokemon1 {
+width: 20%;
+height: 100%;
+display: flex;
+flex-direction: column;
+}
+.latios {
+width: 100%;
+height: 50%;
+}
+.latios img {
+width: 90%;
+height: 90%;
+transform: scaleX(-1);    
+}
+.red {
+width: 100%;
+height: 50%;  
+}
+.red img {
+width: 100%;
+height: 100%;
+transform: scaleX(-1);
+}
+.pokemon2 {
+width: 60%;
+height: 70%;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.pokemon2 img {
+width: 95%;
+height: 95%;
+}
+.pokemon3 {
+width: 20%;
+height: 100%;
+flex-direction: column;
+display: flex;
+}
+.latias {
+width: 100%;
+height: 50%;
+}
+.latias img {
+width: 90%;
+height: 90%;    
+}
+.blue {
+width: 100%;
+height: 50%;  
+}
+.blue img {
+width: 100%;
+height: 100%;
+}
+.black2 {
+width: 80%;
+height: 300px;
+display: flex;
+justify-content: center;
+align-items: flex-end;
+}
+.black2 img {
+width: 30%;
+height: 160%;
+}
+.omegaalfa {
+background-color: rgba(192, 191, 199, 0.445) ;
+width: 80% ;
+height:1400px    
+}
+.ww {
+width: 100%;
+height: 40%;
+display: flex;
+}
+.or {
+    width: 35%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.or img {
+    width: 95%;
+    height: 95%;
+}
+.text5 {
+    width: 30%; 
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    }
+    .text55 {
+    background-color: rgb(54, 54, 54, 0.445);
+    width: 90%; 
+    height: 90%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    box-sizing: border-box;
+    }
+    .text55 p {
+    font-size: clamp(6px,1vw,14px);
+    }
+.as {
+    width: 35%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.as img {
+    width: 95%;
+    height: 95%;
+}
+.vv {
+    width: 100%;
+    height: 60%;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+}
+.vv video {
+    width: 90%;
+    height: 90%;
+}
+.black3 {
+    width: 80%;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    }
+    .k {
+        width: 33.3%;
+        height: 140%;
+        justify-content: center;
+        align-items: center;
+        display: flex;   
+    }
+    .k img {
+        width: 100%;
+        height: 100%;   
+    }
+    .r {
+        width: 33.3%;
+        height: 160%;
+        justify-content: center;
+        align-items: center;
+        display: flex;      
+    }
+    .r img {
+        width: 100%;
+        height: 100%; 
+    } 
+    .g {
+        width: 33.3%;
+        height: 150%;
+        justify-content: center;
+        align-items: center;
+        display: flex;      
+    }
+    .g img {
+        width: 100%;
+        height: 100%; } 
+.footer {
+background-color: rgb(24, 26, 21);
+text-align: center;
+width: 100%;
+height: 20%;
+}
+
+p {
+color: aliceblue;
+}
+
+a {
+color: rgb(255, 255, 255);
+text-decoration: none;
+transition: color 0.5s ease;
+cursor: pointer;
+}
+
+a:hover {
+color: rgba(122, 189, 108, 0.729);
+cursor: url('Pokemon\ Mysterious\ Gardevoir--cursor--SweezyCursors.cur'), auto;
+}

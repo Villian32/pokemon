@@ -1,0 +1,142 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0%;
+    padding: 0%;
+    display: flex;
+    flex-direction: column;
+    background-color:rgb(24, 26, 21) ;
+}
+
+.header {
+    text-align: center;
+    font-size: 40px;
+    background-color: rgb(24, 26, 21);
+    width: 100%;
+    height: 20%;
+}
+
+.header a {
+    display: inline-block;
+    padding: 30px;
+}
+
+.main {
+align-items: center;
+justify-items: center;
+justify-content: center;
+background-image: url('gim/img/pokemon-daycare.gif');
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+} 
+    
+.fon {
+    background-color: rgba(53, 53, 53, 0.645);
+    width: 80%;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+}
+.block {
+  width: 95%;
+  height: 700px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  justify-items: center;
+  background-color: rgb(54, 54, 54);
+}
+.izob {
+    width: 48%;
+    height: 95%;
+    background-color:rgb(37, 37, 37) ;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    display: flex;
+    margin-right: 2%;
+}
+.izob1{
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    display: flex;
+}
+.izob1 img {
+width: 95%;
+height: 95%;
+}
+.text {
+    width: 48%;
+    height: 95%; 
+    display: flex;
+    flex-direction: column;
+    gap: 15%;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    background-color:rgb(37, 37, 37) ;
+}
+.text1 {
+    background-color: rgb(138, 138, 138);
+    width: 95%;
+    height: 20%;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    display: flex;
+}
+.text11 {
+    width: 95%;
+    height: 95%;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    display: flex;
+    font-size: clamp(8px,1vw,14px);
+}
+.text2 {
+    width: 95%;
+    height: 60%;
+    background-color:rgb(138, 138, 138);
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    display: flex;
+}
+.text22 {
+    width: 95%;
+    height: 95%;
+    justify-content: center;
+    justify-items: center;
+    display: flex;
+    font-size: clamp(8px,1vw,18px);
+}
+.black {
+    width: 80%;
+    height: 50px;
+}
+.footer {
+background-color: rgb(24, 26, 21);
+text-align: center;
+width: 100%;
+height: 20%;
+}
+
+p {
+    color: aliceblue;
+}
+
+a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    transition: color 0.5s ease;
+    cursor: pointer;
+}
+
+a:hover {
+    color: rgba(122, 189, 108, 0.729);
+    cursor: url('Pokemon\ Mysterious\ Gardevoir--cursor--SweezyCursors.cur'), auto;
+}
